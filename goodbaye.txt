@@ -1,0 +1,2 @@
+print(dkskdka)
+print(kooo)
