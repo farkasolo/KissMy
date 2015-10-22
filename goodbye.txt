@@ -1,0 +1,3 @@
+print("kurwa");
+print("kurwa");
+print("kurwa");
