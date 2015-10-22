@@ -1,0 +1,2 @@
+print("kurwa");
+print("kurwa");
