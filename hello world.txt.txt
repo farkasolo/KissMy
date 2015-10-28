@@ -1,5 +1,6 @@
-print(hello world!);
-print(heeeeeeeeeee);
-print*+(dsdnadnwnqjwjq);
-print(idasdaidis);
-print("kurwa");
+print(hello world!;);
+print(heeeeeeeeeee;);
+print*+(dsdnadnwnqjwjq;);
+print(idasdaidis;);
+print("kurwa;");
+
